@@ -3,4 +3,6 @@
 - My age 26
 - I like Netology
   
-  !(Я.png)
+  ![alt text][def]
+
+[def]: Я.png
