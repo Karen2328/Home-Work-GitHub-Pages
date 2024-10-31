@@ -1,1 +1,4 @@
-![I](Я.png)
+
+![I][def]
+
+[def]: img/Я.png
